@@ -1,0 +1,6 @@
+Paul : 12
+Alan : 5
+Chubby : 12
+Dog : 25
+noone : 16
+lala : 10
